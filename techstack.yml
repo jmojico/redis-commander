@@ -1,0 +1,405 @@
+repo_name: julianmojico/redis-commander
+report_id: b7decf1eb220ba6fef593e51b26b3a84
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:57:23+00:00'
+requested_by: julianmojico
+provider: github
+branch: master
+detected_tools_count: 27
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/julianmojico/redis-commander
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Joe Ferner
+  last_updated_on: 2012-06-18 20:58:35.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/julianmojico/redis-commander
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/julianmojico/redis-commander
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2019-07-12 17:55:40.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 0.8.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: docker-compose.yml
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-01-25 17:30:00.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 17.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-05-20 23:23:36.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/julianmojico/redis-commander
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/julianmojico/redis-commander
+  detection_source: Repo Metadata
+- name: Snyk
+  description: Automatically find &amp; fix vulnerabilities in your code, containers,
+    Kubernetes, and Terraform
+  website_url: https://snyk.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5326/6p1SNAJu.jpg
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/.snyk
+  detection_source: ".snyk"
+  last_updated_by: snyk-test
+  last_updated_on: 2019-07-09 22:35:27.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Joe Ferner
+  last_updated_on: 2012-06-18 20:58:35.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  version: 3.12.0
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-03-24 09:08:28.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/julianmojico/redis-commander
+  detection_source: Repo Metadata
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2020-04-16 08:37:54.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in async
+    cve_id: CVE-2021-43138
+    cve_url: https://github.com/advisories/GHSA-fwr7-v2mv-hh25
+    detected_date: Apr 13
+    severity: high
+    first_patched: 3.2.2
+- name: bcryptjs
+  description: Optimized bcrypt in plain JavaScript with zero dependencies
+  package_url: https://www.npmjs.com/bcryptjs
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2020-11-17 16:46:42.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-05-20 23:23:36.000000000 Z
+- name: clipboard
+  description: Modern copy to clipboard. No Flash. Just 2kb
+  package_url: https://www.npmjs.com/clipboard
+  version: 2.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16838/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: snyk-bot
+  last_updated_on: 2021-04-07 04:43:21.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  version: 3.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: snyk-bot
+  last_updated_on: 2021-04-01 04:43:36.000000000 Z
+- name: dateformat
+  description: A node.js package for Steven Levithan's excellent dateFormat
+  package_url: https://www.npmjs.com/dateformat
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16480/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2018-11-08 09:58:22.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2019-07-12 17:55:40.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: inflection
+  description: A port of inflection-js to node.js module
+  package_url: https://www.npmjs.com/inflection
+  version: 1.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17018/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: snyk-bot
+  last_updated_on: 2020-04-18 04:55:33.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 4.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-05-20 22:22:07.000000000 Z
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-05-20 23:23:36.000000000 Z
+  vulnerabilities:
+  - name: jsonwebtoken has insecure input validation in jwt.verify function
+    cve_id: CVE-2022-23529
+    cve_url: https://github.com/advisories/GHSA-27h2-hvpr-p74q
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: 'jsonwebtoken unrestricted key type could lead to legacy keys usage '
+    cve_id: CVE-2022-23539
+    cve_url: https://github.com/advisories/GHSA-8cf7-32gw-wr33
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken vulnerable to signature validation bypass due to insecure default
+      algorithm in jwt.verify()
+    cve_id: CVE-2022-23540
+    cve_url: https://github.com/advisories/GHSA-qwph-4952-7xr6
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken's insecure implementation of key retrieval function could lead
+      to Forgeable Public/Private Tokens from RSA to HMAC
+    cve_id: CVE-2022-23541
+    cve_url: https://github.com/advisories/GHSA-hjrf-2m68-5959
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+- name: lodash.isequal
+  description: The Lodash method `_.isEqual` exported as a module
+  package_url: https://www.npmjs.com/lodash.isequal
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16523/default_28df1e698b81279fa78b702212cd6185de706683.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2019-06-12 16:57:04.000000000 Z
+- name: opener
+  description: Opens stuff
+  package_url: https://www.npmjs.com/opener
+  version: 1.5.2
+  license: WTFPL,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16917/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: snyk-bot
+  last_updated_on: 2020-09-20 04:43:21.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.13.7
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-05-20 23:23:36.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/julianmojico/redis-commander/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Stefan Seide
+  last_updated_on: 2021-05-20 23:23:36.000000000 Z
