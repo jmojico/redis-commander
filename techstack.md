@@ -3,16 +3,16 @@
 ## Tech Stack
 julianmojico/redis-commander is built on the following main stack:
 
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Redis](http://redis.io/) – In-Memory Databases
+- [EJS](https://ejs.co/) – Templating Languages & Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [EJS](https://ejs.co/) – Templating Languages & Extensions
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Redis](http://redis.io/) – In-Memory Databases
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Snyk](https://snyk.io/) – Dependency Monitoring
 - [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 julianmojico/redis-commander is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/5326/6p1SNAJu.jpg' alt='Snyk'/> [Snyk](https://snyk.io/) – Dependency Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [julianmojico/redis-commander](https://github.com/julianmojico/redis-commander)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|01/31/24 <br/>Report generated|
+|27<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
